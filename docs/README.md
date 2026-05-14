@@ -10,7 +10,7 @@ The purpose of this project is to analyze healthcare revenue cycle and patient d
 
 # 🩺 Healthcare Revenue Cycle Workflow
 
-![Healthcare Revenue Cycle Workflow](docs/Pic0_Understanding the Hospital Workflow.png)
+![Healthcare Revenue Cycle Workflow](https://raw.githubusercontent.com/SopitaWantanes/Healthcare-SQL-Analytics-Project/main/docs/Pic0_Understanding%20the%20Hospital%20Workflow.png)
 
 This workflow demonstrates the complete hospital revenue cycle process from patient care and physician services to coding, billing, insurance response, payments, adjustments, and accounts receivable management.
 
